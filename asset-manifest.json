@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-list-redux-practice/static/css/main.aaaf48ca.css",
+    "main.js": "/todo-list-redux-practice/static/js/main.dad8daca.js",
+    "index.html": "/todo-list-redux-practice/index.html",
+    "main.aaaf48ca.css.map": "/todo-list-redux-practice/static/css/main.aaaf48ca.css.map",
+    "main.dad8daca.js.map": "/todo-list-redux-practice/static/js/main.dad8daca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaaf48ca.css",
+    "static/js/main.dad8daca.js"
+  ]
+}
